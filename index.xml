@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aman Gautam</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Aman Gautam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Sep 2018 16:55:37 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Static File Generator</title>
+      <link>http://example.org/posts/why-static-file-generator/</link>
+      <pubDate>Fri, 21 Sep 2018 16:55:37 +0530</pubDate>
+      
+      <guid>http://example.org/posts/why-static-file-generator/</guid>
+      <description>In this post, I talk about why we use Static file generator instead of using thing such as WordPress.
+In this post, I talk about why we use Static file generator instead of using thing such as WordPress.
+In this post, I talk about why we use Static file generator instead of using thing such as WordPress.
+In this post, I talk about why we use Static file generator instead of using thing such as WordPress.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/posts/hello-world/</link>
+      <pubDate>Fri, 21 Sep 2018 16:54:30 +0530</pubDate>
+      
+      <guid>http://example.org/posts/hello-world/</guid>
+      <description>Hello World This post is written using static file generator Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
