@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Aman Gautam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Sep 2018 16:55:37 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 16:54:26 +0530</lastBuildDate>
     
 	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 Day Blog Challenge</title>
+      <link>http://example.org/posts/30-day-blog-challenge/</link>
+      <pubDate>Tue, 02 Oct 2018 16:54:26 +0530</pubDate>
+      
+      <guid>http://example.org/posts/30-day-blog-challenge/</guid>
+      <description>The primary purpose of having this blog is to maintain a list of courses I am doing, the books I am reading and the things I am learning. Also, share the important lessons that I am learning along the way.
+It makes complete sense to learn how to blog before starting on the real topics. So I am doing the course 30 days blog transformation challenge on Udemy.
+Here is a day by day challenge to improve your blogging skills.</description>
+    </item>
     
     <item>
       <title>Why Static File Generator</title>

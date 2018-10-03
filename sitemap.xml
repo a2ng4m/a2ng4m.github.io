@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/posts/30-day-blog-challenge/</loc>
+    <lastmod>2018-10-02T16:54:26+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/posts/why-static-file-generator/</loc>
     <lastmod>2018-09-21T16:55:37+05:30</lastmod>
   </url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2018-09-21T16:55:37+05:30</lastmod>
+    <lastmod>2018-10-02T16:54:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +30,7 @@
   
   <url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2018-09-21T16:55:37+05:30</lastmod>
+    <lastmod>2018-10-02T16:54:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
